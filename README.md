@@ -28,8 +28,13 @@ Aspiring **DevOps Engineer** 🚀 | Passionate about **Cloud** ☁️, **Automat
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Chef](https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white)
 ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
+
+### Scripting & Programming Languages
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Web Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -53,8 +58,8 @@ Aspiring **DevOps Engineer** 🚀 | Passionate about **Cloud** ☁️, **Automat
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anustha-pal)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=about-dot-me)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:anusthapal@gmail.com)
+[![Email (text)](https://img.shields.io/badge/anusthapal@gmail.com-grey?style=for-the-badge&logo=gmail)](mailto:anusthapal@gmail.com)
 
 ---
 
